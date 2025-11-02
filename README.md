@@ -20,4 +20,4 @@ The dashboard provides a quick and interactive view of key business metrics like
 - <a href="https://github.com/Shreya7402/Sales-dashboard/blob/main/Screenshot%20(168).png">Dashboard</a>
 
 ## Analysis Report
-- <a href="https://github.com/Shreya7402/Sales-dashboard/blob/main/Screenshot%20(169).png"Analysis Report</a>
+- <a href="https://github.com/Shreya7402/Sales-dashboard/blob/main/Screenshot%20(169).png">Analysis Report</a>
