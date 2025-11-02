@@ -9,8 +9,11 @@ The dashboard provides a quick and interactive view of key business metrics like
 - Ensured clean, professional layout with business insights.
 
 ## Dataset used
+<a href="https://github.com/Shreya7402/Sales-dashboard/blob/main/sales%20data.xlsx"Dataset</a>
 
 ## Insights Derived:
 - High discounts reduce profit margins in some regions.
 - Certain product categories contribute higher profit despite lower quantity sold.
 - Visual analysis helps in identifying profitable zones and underperforming products.
+
+## Dashboard
