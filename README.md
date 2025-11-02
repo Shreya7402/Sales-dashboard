@@ -1,4 +1,4 @@
-# Sales-dashboard
+# Sales-dashboard using Power BI
 ## Objective
 The dashboard provides a quick and interactive view of key business metrics like Sales, Profit, Discount, and Quantity across different product categories and regions.
 
@@ -18,3 +18,6 @@ The dashboard provides a quick and interactive view of key business metrics like
 
 ## Dashboard
 - <a href="https://github.com/Shreya7402/Sales-dashboard/blob/main/Screenshot%20(168).png">Dashboard</a>
+
+## Analysis Report
+
