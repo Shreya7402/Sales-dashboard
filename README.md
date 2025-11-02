@@ -17,3 +17,4 @@ The dashboard provides a quick and interactive view of key business metrics like
 - Visual analysis helps in identifying profitable zones and underperforming products.
 
 ## Dashboard
+- <a href="https://github.com/Shreya7402/Sales-dashboard/blob/main/Screenshot%20(168).png">Dashboard</a>
